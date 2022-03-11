@@ -1,6 +1,6 @@
-# React Tailwindcss Boilerplate build with Vite
+# Vite, React, TypeScript, Windicss Boilerplate
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+A [ReactJS](https://reactjs.org) boilerplate using [Vite](https://vitejs.dev), [TypeScript](https://www.typescriptlang.org) and [Windicss](https://windicss.org/).
 
 ## What is inside?
 
