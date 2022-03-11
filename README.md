@@ -41,11 +41,6 @@ Serve with hot reload at http://localhost:3000.
 npm run dev
 ```
 
-### Lint
-
-```bash
-npm run lint
-```
 
 ### Build
 

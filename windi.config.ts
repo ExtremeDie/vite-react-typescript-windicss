@@ -1,3 +1,3 @@
 export default {
-	attributify: true,
+  attributify: true,
 };
