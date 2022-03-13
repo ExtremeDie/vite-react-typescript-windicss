@@ -44,11 +44,9 @@ function Navbar() {
               className={`flex-0 btn btn-ghost px-2 ${''}`}
             >
               <div className="font-title text-primary inline-flex text-lg transition-all duration-200 md:text-3xl">
-                <span className={`${'text-primary'}`}>todolist</span>
-                <span className={`${'text-base-content'}`}>-</span>
-                <span className={`${'text-yellow-500'}`}>vite</span>
-                <span className={`${'text-base-content'}`}>-</span>
-                <span className={`${'text-[#61dbfb]'}`}>react</span>
+                <span className={`${'text-primary'}`}>
+                  vite-react-typescript-windicss
+                </span>
               </div>
             </a>
             <div data-tip="Changelog" className="tooltip tooltip-bottom">
@@ -83,7 +81,7 @@ function Navbar() {
               <a
                 aria-label="Github"
                 target="_blank"
-                href="https://github.com/ExtremeDie/todolist-vite-react"
+                href="https://github.com/ExtremeDie/vite-react-typescript-windicss"
                 rel="noopener"
                 className="btn btn-ghost drawer-button btn-square normal-case"
               >
